@@ -1,1 +1,1 @@
-![Register](/img/qr/DACRegistration10162020.png)
+![Register](/img/qr/DACRegistration10162020.png = 150x150)
