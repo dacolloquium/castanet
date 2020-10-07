@@ -129,13 +129,13 @@ description = "Data Analytics Colloquium convenes international scholars and dat
   [params.authors.1Peter]
 			name = " Peter Ching-Heng Pan"
 			thumbnail = "img/host/chpan.jpg"
-			bio = ""
+			bio = "Dr. Ching-Heng Pan is Associate Professor and the Director of the Graduate Institute of National Policy and Public Affairs at National Chung Hsing University in Taiwan.  Professor Pan studies public administration, with a primary interest in the relationship between information technology and public governance, which includes such topics as social media and government, smart governance, information technology and public organizations. His recent research projects center around the influence of web applications on the networking between/within the nonprofit and government sectors. His teaching courses include Organizational Behaviors and Theories, Public Economics, e-Governance, and Research Methods in Social Sciences. He is a graduate of Columbia University and the University of Southern California, where he received his Ph.D. He was a research fellow of Taiwan e-Governance Center, where he involved several research projects as PI or co-PI between 2007 and 2013."
   [params.authors.1Peter.social]
 					twitter = "chpan"
   [params.authors.2Karl]
       name	= "Karl Ho"
       thumbnail = "img/host/KarlHo.jpg"
-      bio = "Karl Ho is a political data scientist working at the intersection of data science and social science. His research interests span both domains of data analytics and political studies, with a regional focus on East Asia. The unifying theme of his research is to use fast growing data science methods, data-oriented research design and statistical computing to decipher and prescribe social and political problems. Areas of substantive topics include democratization, political economy, public policy and human rights. He pursues both data analytics and data modeling in building public goods, aiming at improving policies, governance and representation."
+      bio = "Karl Ho is Associate Professor of Instruction at the University of Texas at Dallas School of Economic, Political and Policy Sciences. He is the co-founder of the EPPS Social Data Analytics and Research (SDAR) master program.  He is co-investigator of the Hong Kong Election Study (HKES) project, studying electoral developments in Hong Kong since 2015. Currently he serves in the advisors group at the UTD [COMETrends](https://cometrends.utdallas.edu) project."
   [params.authors.2Karl.social]
         github = "karlho"
         facebook = "karlho"
