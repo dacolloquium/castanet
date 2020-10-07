@@ -127,7 +127,7 @@ description = "Data Analytics Colloquium convenes international scholars and dat
 #    twitch = ""
   [params.authors]
   [params.authors.1Peter]
-			name = "Peter Pan"
+			name = " Peter Ching-Heng Pan"
 			thumbnail = "img/host/chpan.jpg"
 			bio = ""
   [params.authors.1Peter.social]
