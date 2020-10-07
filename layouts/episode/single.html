@@ -90,6 +90,16 @@
         {{- end -}}
         <!-- eventinfo POC end -->
 
+       <!-- QR POC begin-->
+        {{- with .Params.qr -}}
+        <div class="row qr">
+          <div class="col-md-12">
+            <h2></h2>
+            {{ (readFile .) | markdownify}}
+          </div>
+        </div>
+        {{- end -}}
+        <!-- QR POC end -->
   <div class="row">
     <div class="col">
       <h2></h2>
