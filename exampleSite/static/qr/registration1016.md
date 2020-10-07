@@ -1,1 +1,1 @@
-![Register](/static/img/episode/DACRegistration10302020.png)
+![Register](DACRegistration10302020.png)
