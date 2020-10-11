@@ -21,7 +21,7 @@ paginate = "9"
     identifier = "about"
     url = "/about"
 
-[[Menu.Main]]
+[[Menu.Main1]]
     name = "Contact"
     identifier = "contact"
     url = "/contact"
