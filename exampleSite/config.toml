@@ -18,24 +18,28 @@ paginate = "9"
 # The menus are sorted based upon their identifier
 [[Menu.Main]]
     name = "About"
-    identifier = "about"
+    identifier = "1about"
     url = "/about"
 
 [[Menu.Main]]
     name = "Contact"
-    identifier = "1contact"
+    identifier = "5contact"
     url = "/contact"
 
 [[Menu.Main]]
     name = "Hosts"
-    identifier = "hosts"
+    identifier = "3hosts"
     url = "/host"
 
 [[Menu.Main]]
     name = "Guests"
-    identifier = "guests"
+    identifier = "4guests"
     url = "/guest"
 
+[[Menu.Main]]
+    name = "Advisors"
+    identifier = "2advisors"
+    url = "/advisor"
 
 
 # [[Menu.Main]]
