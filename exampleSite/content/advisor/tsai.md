@@ -1,7 +1,7 @@
 +++
 Title = "Dean Tung-Chieh Tsai"
 date = "2020-09-23T20:55:58-06:00"
-Twitter = "chpan2012"
+Twitter = ""
 Website = ""
 Type = "advisor"
 Facebook = ""
