@@ -6,14 +6,6 @@
             <img src="/img/DACbanner.png" alt="Data Analytics Colloquium">
                 {{ .Site.Params.description | markdownify }}
         </div>
-
-        {{ range $p:= $.Site.Params.authors }}
-        <div class="col-lg-2">
-            <img alt="{{ $p.name }}" src="{{ $p.thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
-            <p class="text-center text-capitalize">{{ $p.name }}</p>
-        </div>
-        {{ end }}
-
     </div>
 
 
