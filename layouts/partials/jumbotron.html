@@ -3,10 +3,8 @@
 <div class="jumbotron">
     <div class="row">
         <div class="col">
-            <p>
             <img src="/img/DACbanner.png" alt="Data Analytics Colloquium">
                 {{ .Site.Params.description | markdownify }}
-              </p>
         </div>
 
         {{ range $p:= $.Site.Params.authors }}
