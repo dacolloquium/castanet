@@ -126,7 +126,7 @@ copyright_notice = "Copyright 2020 [Data Analytics Colloquium](https://www.dacol
 #    googleplus = ""
 #    pinterest = ""
 #    instagram = ""
-    youtube = "https://youtube.com/channel/UCwm2Datv-8wtNUhYpNyqlWQ"
+    youtube = "channel/UCwm2Datv-8wtNUhYpNyqlWQ"
     linkedin = "dacolloquium"
 #    twitch = ""
 #  [params.authors]
